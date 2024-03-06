@@ -6,7 +6,7 @@ public class Main {
         //... is assembled,
         //... is packed
         // ready...
-        // cost - 12000$
+        // cost - 12000$ how it
 
         Franchise franchise = new UsaCompany();
         franchise.orderPizza("UsaCamry");

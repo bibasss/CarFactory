@@ -1,5 +1,6 @@
 public abstract class ToyotaCars {
     protected String description;
+    protected double cost;
 
     public String getDescription() {
         return description;
@@ -7,6 +8,14 @@ public abstract class ToyotaCars {
 
     public void setDescription(String description) {
         this.description = description;
+    }
+
+    public double getCost() {
+        return cost;
+    }
+
+    public void setCost(double cost) {
+        this.cost = cost;
     }
 
     public void processed(){
@@ -20,6 +29,10 @@ public abstract class ToyotaCars {
         System.out.println(description+" is packed...");
     }
     public void ready(){
-        System.out.println(description+" ready! \n");
+        System.out.println(description+" ready!");
     }
+    public void end(){
+        System.out.println("price: " + cost + "$ \n");
+    }
+
 }

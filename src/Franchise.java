@@ -7,6 +7,7 @@ public abstract class Franchise {
         toyotaCars.assembled();
         toyotaCars.packed();
         toyotaCars.ready();
+        toyotaCars.end();
         return toyotaCars;
     }
 }
