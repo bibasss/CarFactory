@@ -6,6 +6,8 @@ public class EuCompany extends Franchise{
             toyotaCars = new EuCamry();
         }else if(type.equals("EuSupra")){
             toyotaCars = new EuSupra();
+        }else if(type.equals("EuCorolla")){
+            toyotaCars = new EuCorolla();
         }
         return toyotaCars;
     }

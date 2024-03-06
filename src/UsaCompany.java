@@ -6,6 +6,8 @@ public class UsaCompany extends Franchise{
             toyotaCars = new UsaCamry();
         }else if(type.equals("UsaSupra")){
             toyotaCars = new UsaSupra();
+        }else if(type.equals("UsaCorolla")){
+            toyotaCars = new UsaCorolla();
         }
         return toyotaCars;
     }

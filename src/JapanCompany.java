@@ -6,6 +6,8 @@ public class JapanCompany extends Franchise{
             toyotaCars = new JapanCamry();
         }else if(type.equals("JapanSupra")){
             toyotaCars = new JapanSupra();
+        }else if(type.equals("JapanCorolla")){
+            toyotaCars = new JapanCorolla();
         }
         return toyotaCars;
     }
