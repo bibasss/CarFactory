@@ -1,5 +1,5 @@
 public class UsaCompany extends Franchise{
-    public ToyotaCars createPizza(String type){
+    public ToyotaCars CreateCar(String type){
         ToyotaCars toyotaCars = null;
 
         if(type.equals("UsaCamry")){

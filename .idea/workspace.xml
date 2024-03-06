@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63c32cf5-1c34-44c0-8a50-d4f5b0008616" name="Changes" comment="Its first comit!">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EuCamry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EuCamry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EuCorolla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EuCorolla.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EuSupra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EuSupra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EuCompany.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EuCompany.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Franchise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Franchise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JapanCamry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JapanCamry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JapanCorolla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JapanCorolla.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JapanSupra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JapanSupra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JapanCompany.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JapanCompany.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ToyotaCars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToyotaCars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UsaCamry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UsaCamry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UsaCorolla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UsaCorolla.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UsaSupra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UsaSupra.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +95,7 @@
       <updated>1709707958070</updated>
       <workItem from="1709707959159" duration="1414000" />
       <workItem from="1709710380190" duration="3419000" />
-      <workItem from="1709713834165" duration="421000" />
+      <workItem from="1709713834165" duration="737000" />
     </task>
     <task id="LOCAL-00001" summary="Its first comit!">
       <option name="closed" value="true" />
@@ -154,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709713608239</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Its first comit!">
+      <option name="closed" value="true" />
+      <created>1709714347865</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709714347865</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
